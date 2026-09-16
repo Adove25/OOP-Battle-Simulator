@@ -15,5 +15,3 @@ class Hero:
     def is_alive(self):
         return self.health > 0
 
-
-    pass
